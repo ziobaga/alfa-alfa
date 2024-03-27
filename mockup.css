@@ -1,0 +1,66 @@
+#primodiv {
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+header {
+   text-align: center;
+}
+
+header p {
+    font-size: 90%;
+    color: rgb(29, 93, 71);
+    background-color: rgb(232, 208, 203);
+    padding: 1.2em;
+    margin: 0;
+    border-top: 3px solid #e0cb3f;
+}
+main h2 {
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+article {
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+article img {
+    box-shadow: 5px 5px 15px #030303a0;
+    border-radius: 5px;
+}
+ article figcaption {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal
+    
+ }
+
+ #rosso {
+    color: red;
+    }
+ 
+ #lista {
+    font-family: "Merriweather", serif;
+    font-weight: 200;
+    font-style: normal
+ }
+ 
+ #ok {
+    font-family: "Merriweather", serif;
+    font-weight: 200;
+    font-style: normal
+ }
+
+ #metodo {
+    font-family: "Merriweather", serif;
+    font-weight: 200;
+    font-style: normal;
+
+ }
