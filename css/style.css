@@ -1,0 +1,123 @@
+/* Your styles here */
+body {
+ text-align: center;
+}
+header {
+    text-align: center;
+    margin: 0;
+    background-position: center;
+    background-color: black;
+    padding: 1em;
+}
+
+#titolo {
+    background-image: url(.//images/banner.jpg);
+    background-size: cover;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    line-height: 1.5em;
+
+}
+
+#web {
+    text-align: center;
+    line-height: 1.5em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(59, 152, 245);
+}
+
+#siparte {
+    text-align: center;
+    background-color: rgb(243, 97, 19);
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    border-radius: 0.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0.5em;
+    font-size: small;
+}
+
+.blue {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: rgb(59, 152, 245); ;
+}
+
+p {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5em;
+}
+
+.tonde {
+    border-radius: 50%;
+    width: 300px;
+}
+
+#rosso {
+    background-color: rgb(243, 97, 19);
+    padding: 1em;
+}
+
+#epicode {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    
+}
+
+#corsivo {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: small;
+}
+#mario {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+#ceo {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: small;
+}
+#foto {
+    text-align: center;
+}
+.paragrafi img {
+    width: 100%;
+}
+.paragrafi {
+    border: 1px solid rgba(185, 184, 184, 0.895);
+    padding-bottom: 20%;
+    margin: 53px;
+}
+footer {
+    background-color: rgb(59, 152, 245);
+    color: white;
+    padding: 5%;
+}
+footer {
+    text-decoration: none white;
+}
+
+.link {
+   color: white; 
+}
+.font { 
+    font-family: "Montserrat", sans-serif;
+    font-size: small;
+}
+hr {
+    border: 1px solid white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#copy {
+    font-size: smaller;
+}
