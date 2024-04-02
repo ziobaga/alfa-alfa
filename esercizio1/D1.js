@@ -16,7 +16,7 @@ REGOLE
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
-var myName = "Adriano";
+let myName = "Adriano";
 console.log(myName);
 /* SCRIVI QUI LA TUA RISPOSTA */
 
@@ -38,8 +38,12 @@ console.log(x);
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
-const myName = "Leanza";
+myName = "Leanza";
 console.log(myName);
+
+const a = 14;
+a = 7;
+
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 6
