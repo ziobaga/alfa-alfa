@@ -86,17 +86,7 @@ let es1 = 5;
 let es2 = 12;
 let es3 = 9;
 
-if (es1 >= es2) {
-  if (es3 >= es1) {
-    console.log(es3, es1, es2);
-  } else {
-    if (es3 >= es2) {
-      console.log(es1, es3, es2);
-    } else {
-      console.log(es1, es2, es3);
-    }
-  }
-} else {
+
   if (es3 >= es2) {
     console.log(es3, es2, es1);
   } else {
