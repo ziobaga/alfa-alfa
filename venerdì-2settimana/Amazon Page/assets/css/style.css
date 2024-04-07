@@ -1,0 +1,120 @@
+/* Your styles here */
+body {
+    background-color: #BCBEBC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.amazon img {
+    width: 10%;
+    padding-left: 20px;
+}
+
+.amazon {
+    background-color: #222F3F;
+}
+
+.link {
+    background-color: #364757;
+}
+
+.link li {
+    display: inline-block;
+    padding: 3px;
+    padding-left: 20px;
+    color: white;
+}
+
+#holiday p, #gift, #images {
+    margin: 30px;
+}
+
+#holiday p {
+    background-color: #C65100;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+#gift {
+    background-image: url(./bg-image.png);
+    background-size: cover;
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+    line-height: 40px;
+
+}
+
+#large {
+    font-size: 30px;
+}
+
+#small {
+    font-size: 15px;
+}
+
+#now {
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(3, 108, 118);
+    font-weight: bold;
+    font-size: smaller;
+}
+ 
+#images {
+    background-color: white;
+    padding: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#images img {
+    width: 24%;
+    height: 20vw;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 7%;
+    box-shadow: 5px 5px 20px grey;
+}
+
+#find {
+    padding-left: 40px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.objects {
+    text-align: center;
+}
+
+.objects img {
+    width: 96%;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.objects p {
+    padding-bottom: 10px;
+}
+
+aside {
+    background-color: #364757;
+    text-align: center;
+    padding: 10px;
+}
+
+aside a {
+    color: white;
+}
+
+footer {
+    background-color:  #222F3F;
+    text-align: center;
+}
+
+footer img {
+    width: 20%;
+    padding: 4%;
+}
